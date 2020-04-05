@@ -1,5 +1,8 @@
 {
   "name": "@conduitry/eslint-config",
+  "version": "0.0.0",
+  "private": true,
+  "homepage": "https://git.chor.date/Conduitry/eslint-config",
   "peerDependencies": {
     "eslint": ">=6"
   }
