@@ -1,0 +1,6 @@
+{
+  "name": "@conduitry/eslint-config",
+  "peerDependencies": {
+    "eslint": ">=6"
+  }
+}
