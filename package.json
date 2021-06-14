@@ -5,5 +5,10 @@
   "homepage": "https://git.chor.date/Conduitry/eslint-config",
   "peerDependencies": {
     "eslint": ">=6"
+  },
+  "peerDependenciesMeta": {
+    "eslint": {
+      "optional": true
+    }
   }
 }
