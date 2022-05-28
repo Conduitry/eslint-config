@@ -1,6 +1,6 @@
 module.exports = {
 	root: true,
-	parserOptions: { ecmaVersion: 2021, sourceType: 'module' },
+	parserOptions: { ecmaVersion: 2022, sourceType: 'module' },
 	env: { es6: true, browser: true, node: true },
 	extends: ['eslint:recommended'],
 	rules: {
