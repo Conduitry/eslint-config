@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://git.chor.date/Conduitry/eslint-config",
   "peerDependencies": {
-    "eslint": ">=6"
+    "eslint": ">=8"
   },
   "peerDependenciesMeta": {
     "eslint": {
